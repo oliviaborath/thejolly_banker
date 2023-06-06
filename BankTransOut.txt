@@ -1,0 +1,78 @@
+Failed to withdraw $20000 from Cash Johnny's Growth Index Fund. (Account #1001).
+--------------------------------------------------------------------------------------------------------------------
+Displaying All Transactions of Cash Johnny's account (Account #1001):
+Opened an account for client Cash Johnny (Account #1001).
+Deposited $542 to Cash Johnny's Money Market. (Account #1001).
+Deposited $1542 to Cash Johnny's Prime Money Market. (Account #1001).
+Deposited $5442 to Cash Johnny's Long Term Bond. (Account #1001).
+Deposited $7540 to Cash Johnny's Short-Term Bond. (Account #1001).
+Deposited $5442 to Cash Johnny's Growth Index Fund. (Account #1001).
+Deposited $7542 to Cash Johnny's Growth Equity Fund. (Account #1001).
+Deposited $1500 to Cash Johnny's Prime Money Market. (Account #1001).
+Deposited $5000 to Cash Johnny's Long Term Bond. (Account #1001).
+Deposited $7000 to Cash Johnny's Short-Term Bond. (Account #1001).
+Deposited $6543 to Cash Johnny's Growth Index Fund. (Account #1001).
+Deposited $7576 to Cash Johnny's Growth Equity Fund. (Account #1001).
+Withdrew $1000 from Cash Johnny's Growth Index Fund. (Account #1001).
+Withdrew $65 from Cash Johnny's Growth Equity Fund. (Account #1001).
+Withdrew $72 from Cash Johnny's Money Market. (Account #1001).
+Withdrew $54 from Cash Johnny's Growth Index Fund. (Account #1001).
+Deposited $54 to Cash Johnny's Capital Value Fund. (Account #1001).
+Failed to withdraw $20000 from Cash Johnny's Growth Index Fund. (Account #1001).
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Displaying All Transactions for Williams Hank's 500 Index Fund (Account #1253):
+Deposited $10000 to Williams Hank's 500 Index Fund. (Account #1253).
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Displaying All Transactions of Williams Hank's account (Account #1253):
+Opened an account for client Williams Hank (Account #1253).
+Deposited $10000 to Williams Hank's Money Market. (Account #1253).
+Deposited $10000 to Williams Hank's Prime Money Market. (Account #1253).
+Deposited $10000 to Williams Hank's Long Term Bond. (Account #1253).
+Deposited $10000 to Williams Hank's Short-Term Bond. (Account #1253).
+Deposited $10000 to Williams Hank's 500 Index Fund. (Account #1253).
+Deposited $10000 to Williams Hank's Capital Value Fund. (Account #1253).
+Deposited $10000 to Williams Hank's Growth Equity Fund. (Account #1253).
+Deposited $10000 to Williams Hank's Growth Index Fund. (Account #1253).
+Deposited $10000 to Williams Hank's Value Fund. (Account #1253).
+Deposited $10000 to Williams Hank's Value Stock Index. (Account #1253).
+Withdrew $10000 from Williams Hank's Long Term Bond. (Account #1253).
+Withdrew $5000 from Williams Hank's Short-Term Bond. (Account #1253).
+--------------------------------------------------------------------------------------------------------------------
+Invalid Transfer: T 12539 765 43567
+Account #9876 already exists.
+Cash Johnny's Account (#1001)
+Money Market: $470
+Prime Money Market: $3042
+Long-Term Bond: $10442
+Short-Term Bond: $14540
+500 Index Fund: $0
+Capital Value Fund: $54
+Growth Equity Fund: $15053
+Growth Index Fund: $10931
+Value Fund: $0
+Value Stock Index: $0
+Williams Hank's Account (#1253)
+Money Market: $10000
+Prime Money Market: $10000
+Long-Term Bond: $0
+Short-Term Bond: $5000
+500 Index Fund: $10000
+Capital Value Fund: $10000
+Growth Equity Fund: $10000
+Growth Index Fund: $10000
+Value Fund: $10000
+Value Stock Index: $10000
+Nelson Willie's Account (#9876)
+Money Market: $0
+Prime Money Market: $0
+Long-Term Bond: $0
+Short-Term Bond: $0
+500 Index Fund: $0
+Capital Value Fund: $0
+Growth Equity Fund: $0
+Growth Index Fund: $0
+Value Fund: $0
+Value Stock Index: $0
+Program ended with exit code: 0
